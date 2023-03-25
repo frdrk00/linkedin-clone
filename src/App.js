@@ -7,6 +7,7 @@ import { login, logout, selectUser } from './features/userSlice';
 import Login from './Login/Login';
 import { useEffect } from 'react';
 import { auth } from './firebase/config';
+import Widgets from './Widgets/Widgets';
 
 
 
