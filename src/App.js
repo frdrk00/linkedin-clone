@@ -4,6 +4,7 @@ import Sidebar from './Sidebar/Sidebar';
 import Feed from './Feed/Feed';
 
 
+
 function App() {
   return (
     <div className="app">
@@ -16,6 +17,7 @@ function App() {
         <div className="app__body">
         <Sidebar />
         <Feed />
+        
         {/* Widgets */}
         </div>
     </div>
